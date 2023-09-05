@@ -1,7 +1,9 @@
 # Smart Vehicle Tracking System using GPS and ESP8266
 
 ## Overview
-This repository contains the code and documentation for a Smart Vehicle Tracking System developed using a GPS module and ESP8266. The system provides real-time vehicle tracking and location data via the ThingSpeak platform. It offers accurate and reliable tracking, making it a valuable tool for vehicle owners and fleet management.
+This repository contains the code and documentation for a Smart Vehicle Tracking System developed using a GPS module and ESP8266. 
+The system provides real-time vehicle tracking and location data via the ThingSpeak platform. 
+It offers accurate and reliable tracking, making it a valuable tool for vehicle owners and fleet management.
 
 ## Key Features
 Real-time vehicle tracking using GPS technology.
@@ -14,7 +16,6 @@ Potential for further customization and expansion, including adding sensors for 
 ESP8266 module
 GPS module
 Power supply
-Antenna (for ESP8266)
 Internet connection
 
 ## Software Requirements
