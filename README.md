@@ -16,9 +16,12 @@ Accessibility of vehicle location data from anywhere using an internet-enabled d
 Potential for further customization and expansion, including adding sensors for monitoring vehicle health parameters.
 
 ## Hardware Requirements
-ESP8266 module
+ESP8266 module 
+
 GPS module
+
 Power supply
+
 Internet connection
 
 ## Software Requirements
