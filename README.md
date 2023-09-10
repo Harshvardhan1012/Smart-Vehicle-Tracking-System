@@ -45,6 +45,8 @@ Power on the system and start tracking your vehicle in real-time.
 
 ## Results
 
+![image](https://github.com/Harshvardhan1012/Smart-Vehicle-Tracking-System/assets/142202090/82628f49-4e2b-47da-97aa-2b8840910025)
+
 ![image](https://github.com/Harshvardhan1012/Smart-Vehicle-Tracking-System/assets/142202090/ce1b2557-bca6-42ab-b389-7d7b672c4a8d)
 
 ![image](https://github.com/Harshvardhan1012/Smart-Vehicle-Tracking-System/assets/142202090/543901fb-aa4c-4c75-a660-3d87aab62367)
